@@ -22,9 +22,10 @@ title: Life Blog
 email: anthonydgallo at gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Testing
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://anthonydgallo.github.io/lifeblog" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /lifeblog/ # the subpath of your site, e.g. /blog
+url: https://anthonydgallo.github.io/lifeblog # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
+domai: anthonydgallo.github.io
 github_username:  anthonydgallo
 
 # Build settings
