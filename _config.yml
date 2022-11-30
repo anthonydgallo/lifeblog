@@ -27,7 +27,7 @@ url: https://anthonydgallo.github.io/lifeblog # the base hostname & protocol for
 # twitter_username: jekyllrb
 domai: anthonydgallo.github.io
 github_username:  anthonydgallo
-
+  s
 # Build settings
 theme: minimal-mistakes-jekyll
 plugins:
